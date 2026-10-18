@@ -1,0 +1,9 @@
+<resources>
+    <color name="rb_bg">#003D32</color>
+    <color name="rb_card">#075A4A</color>
+    <color name="rb_card2">#0B6654</color>
+    <color name="rb_accent">#46E6B2</color>
+    <color name="rb_text">#F1FFF9</color>
+    <color name="rb_muted">#A5C8BD</color>
+    <color name="rb_red">#FF6B6B</color>
+</resources>
